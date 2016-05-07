@@ -1,0 +1,5 @@
+D:\AGH\Semestr VI\Technologie Integracji Oprogramowania\Laboratoria\Projects\Cosmos\Cosmos\CosmicAdventureDTO\bin\Debug\CosmicAdventureDTO.dll
+D:\AGH\Semestr VI\Technologie Integracji Oprogramowania\Laboratoria\Projects\Cosmos\Cosmos\CosmicAdventureDTO\bin\Debug\CosmicAdventureDTO.pdb
+D:\AGH\Semestr VI\Technologie Integracji Oprogramowania\Laboratoria\Projects\Cosmos\Cosmos\CosmicAdventureDTO\obj\Debug\CosmicAdventureDTO.csprojResolveAssemblyReference.cache
+D:\AGH\Semestr VI\Technologie Integracji Oprogramowania\Laboratoria\Projects\Cosmos\Cosmos\CosmicAdventureDTO\obj\Debug\CosmicAdventureDTO.dll
+D:\AGH\Semestr VI\Technologie Integracji Oprogramowania\Laboratoria\Projects\Cosmos\Cosmos\CosmicAdventureDTO\obj\Debug\CosmicAdventureDTO.pdb
