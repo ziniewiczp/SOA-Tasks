@@ -1,0 +1,11 @@
+D:\AGH\Semestr VI\Technologie Integracji Oprogramowania\Laboratoria\Projects\Books (REST WebAPI)\Library\ObjectsManager.LiteDB.Books\bin\Debug\ObjectsManager.LiteDB.Books.dll
+D:\AGH\Semestr VI\Technologie Integracji Oprogramowania\Laboratoria\Projects\Books (REST WebAPI)\Library\ObjectsManager.LiteDB.Books\bin\Debug\ObjectsManager.LiteDB.Books.pdb
+D:\AGH\Semestr VI\Technologie Integracji Oprogramowania\Laboratoria\Projects\Books (REST WebAPI)\Library\ObjectsManager.LiteDB.Books\bin\Debug\LiteDB.dll
+D:\AGH\Semestr VI\Technologie Integracji Oprogramowania\Laboratoria\Projects\Books (REST WebAPI)\Library\ObjectsManager.LiteDB.Books\bin\Debug\ObjectsManager.Intefaces.Books.dll
+D:\AGH\Semestr VI\Technologie Integracji Oprogramowania\Laboratoria\Projects\Books (REST WebAPI)\Library\ObjectsManager.LiteDB.Books\bin\Debug\ObjectsManager.Model.dll
+D:\AGH\Semestr VI\Technologie Integracji Oprogramowania\Laboratoria\Projects\Books (REST WebAPI)\Library\ObjectsManager.LiteDB.Books\bin\Debug\ObjectsManager.Intefaces.Books.pdb
+D:\AGH\Semestr VI\Technologie Integracji Oprogramowania\Laboratoria\Projects\Books (REST WebAPI)\Library\ObjectsManager.LiteDB.Books\bin\Debug\ObjectsManager.Model.pdb
+D:\AGH\Semestr VI\Technologie Integracji Oprogramowania\Laboratoria\Projects\Books (REST WebAPI)\Library\ObjectsManager.LiteDB.Books\bin\Debug\LiteDB.xml
+D:\AGH\Semestr VI\Technologie Integracji Oprogramowania\Laboratoria\Projects\Books (REST WebAPI)\Library\ObjectsManager.LiteDB.Books\obj\Debug\ObjectsManager.LiteDB.Books.csprojResolveAssemblyReference.cache
+D:\AGH\Semestr VI\Technologie Integracji Oprogramowania\Laboratoria\Projects\Books (REST WebAPI)\Library\ObjectsManager.LiteDB.Books\obj\Debug\ObjectsManager.LiteDB.Books.dll
+D:\AGH\Semestr VI\Technologie Integracji Oprogramowania\Laboratoria\Projects\Books (REST WebAPI)\Library\ObjectsManager.LiteDB.Books\obj\Debug\ObjectsManager.LiteDB.Books.pdb

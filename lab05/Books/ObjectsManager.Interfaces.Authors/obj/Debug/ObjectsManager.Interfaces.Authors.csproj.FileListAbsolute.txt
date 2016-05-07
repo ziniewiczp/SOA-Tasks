@@ -1,0 +1,7 @@
+D:\AGH\Semestr VI\Technologie Integracji Oprogramowania\Laboratoria\Projects\Books (REST WebAPI)\Library\ObjectsManager.Interfaces.Authors\bin\Debug\ObjectsManager.Interfaces.Authors.dll
+D:\AGH\Semestr VI\Technologie Integracji Oprogramowania\Laboratoria\Projects\Books (REST WebAPI)\Library\ObjectsManager.Interfaces.Authors\bin\Debug\ObjectsManager.Interfaces.Authors.pdb
+D:\AGH\Semestr VI\Technologie Integracji Oprogramowania\Laboratoria\Projects\Books (REST WebAPI)\Library\ObjectsManager.Interfaces.Authors\bin\Debug\ObjectsManager.Model.dll
+D:\AGH\Semestr VI\Technologie Integracji Oprogramowania\Laboratoria\Projects\Books (REST WebAPI)\Library\ObjectsManager.Interfaces.Authors\bin\Debug\ObjectsManager.Model.pdb
+D:\AGH\Semestr VI\Technologie Integracji Oprogramowania\Laboratoria\Projects\Books (REST WebAPI)\Library\ObjectsManager.Interfaces.Authors\obj\Debug\ObjectsManager.Interfaces.Authors.csprojResolveAssemblyReference.cache
+D:\AGH\Semestr VI\Technologie Integracji Oprogramowania\Laboratoria\Projects\Books (REST WebAPI)\Library\ObjectsManager.Interfaces.Authors\obj\Debug\ObjectsManager.Interfaces.Authors.dll
+D:\AGH\Semestr VI\Technologie Integracji Oprogramowania\Laboratoria\Projects\Books (REST WebAPI)\Library\ObjectsManager.Interfaces.Authors\obj\Debug\ObjectsManager.Interfaces.Authors.pdb

@@ -1,0 +1,7 @@
+D:\AGH\Semestr VI\Technologie Integracji Oprogramowania\Laboratoria\Projects\Books (REST WebAPI)\Library\ObjectsManager.Intefaces.Books\bin\Debug\ObjectsManager.Intefaces.Books.dll
+D:\AGH\Semestr VI\Technologie Integracji Oprogramowania\Laboratoria\Projects\Books (REST WebAPI)\Library\ObjectsManager.Intefaces.Books\bin\Debug\ObjectsManager.Intefaces.Books.pdb
+D:\AGH\Semestr VI\Technologie Integracji Oprogramowania\Laboratoria\Projects\Books (REST WebAPI)\Library\ObjectsManager.Intefaces.Books\bin\Debug\ObjectsManager.Model.dll
+D:\AGH\Semestr VI\Technologie Integracji Oprogramowania\Laboratoria\Projects\Books (REST WebAPI)\Library\ObjectsManager.Intefaces.Books\bin\Debug\ObjectsManager.Model.pdb
+D:\AGH\Semestr VI\Technologie Integracji Oprogramowania\Laboratoria\Projects\Books (REST WebAPI)\Library\ObjectsManager.Intefaces.Books\obj\Debug\ObjectsManager.Intefaces.Books.csprojResolveAssemblyReference.cache
+D:\AGH\Semestr VI\Technologie Integracji Oprogramowania\Laboratoria\Projects\Books (REST WebAPI)\Library\ObjectsManager.Intefaces.Books\obj\Debug\ObjectsManager.Intefaces.Books.dll
+D:\AGH\Semestr VI\Technologie Integracji Oprogramowania\Laboratoria\Projects\Books (REST WebAPI)\Library\ObjectsManager.Intefaces.Books\obj\Debug\ObjectsManager.Intefaces.Books.pdb

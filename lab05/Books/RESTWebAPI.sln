@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectsManager.Model", "ObjectsManager.Model\ObjectsManager.Model.csproj", "{2A731599-9701-44AF-A06C-8DC15545F20E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectsManager.LiteDB.Books", "ObjectsManager.LiteDB.Books\ObjectsManager.LiteDB.Books.csproj", "{B3CB642D-C6C6-40C1-9F20-676C94FE78C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectsManager.LiteDB.Authors", "ObjectsManager.LiteDB.Authors\ObjectsManager.LiteDB.Authors.csproj", "{0B168C32-82D1-4C5A-BDB4-92A24CC3F0D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectsManager.Intefaces.Books", "ObjectsManager.Intefaces.Books\ObjectsManager.Intefaces.Books.csproj", "{80E831D3-D077-46B5-A1DF-F174922D44CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectsManager.Interfaces.Authors", "ObjectsManager.Interfaces.Authors\ObjectsManager.Interfaces.Authors.csproj", "{6677D2E3-5D7D-4D50-B44C-7E6E4F42B6BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{FCCD796A-84D7-4E70-88B8-E7FB3085DF2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A731599-9701-44AF-A06C-8DC15545F20E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A731599-9701-44AF-A06C-8DC15545F20E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A731599-9701-44AF-A06C-8DC15545F20E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A731599-9701-44AF-A06C-8DC15545F20E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3CB642D-C6C6-40C1-9F20-676C94FE78C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3CB642D-C6C6-40C1-9F20-676C94FE78C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3CB642D-C6C6-40C1-9F20-676C94FE78C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3CB642D-C6C6-40C1-9F20-676C94FE78C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B168C32-82D1-4C5A-BDB4-92A24CC3F0D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B168C32-82D1-4C5A-BDB4-92A24CC3F0D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B168C32-82D1-4C5A-BDB4-92A24CC3F0D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B168C32-82D1-4C5A-BDB4-92A24CC3F0D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80E831D3-D077-46B5-A1DF-F174922D44CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80E831D3-D077-46B5-A1DF-F174922D44CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80E831D3-D077-46B5-A1DF-F174922D44CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80E831D3-D077-46B5-A1DF-F174922D44CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6677D2E3-5D7D-4D50-B44C-7E6E4F42B6BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6677D2E3-5D7D-4D50-B44C-7E6E4F42B6BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6677D2E3-5D7D-4D50-B44C-7E6E4F42B6BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6677D2E3-5D7D-4D50-B44C-7E6E4F42B6BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCCD796A-84D7-4E70-88B8-E7FB3085DF2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCCD796A-84D7-4E70-88B8-E7FB3085DF2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCCD796A-84D7-4E70-88B8-E7FB3085DF2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCCD796A-84D7-4E70-88B8-E7FB3085DF2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
