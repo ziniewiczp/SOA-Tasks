@@ -1,0 +1,2 @@
+2016-05-08 00:18:03,806 INFO - GET for paintings was called
+2016-05-08 00:18:29,833 INFO - GET for artists was called
