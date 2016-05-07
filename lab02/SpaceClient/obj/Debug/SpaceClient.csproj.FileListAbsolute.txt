@@ -1,0 +1,6 @@
+D:\AGH\Semestr VI\Technologie Integracji Oprogramowania\Laboratoria\Projects\Space\SpaceClient\bin\Debug\SpaceClient.exe.config
+D:\AGH\Semestr VI\Technologie Integracji Oprogramowania\Laboratoria\Projects\Space\SpaceClient\bin\Debug\SpaceClient.exe
+D:\AGH\Semestr VI\Technologie Integracji Oprogramowania\Laboratoria\Projects\Space\SpaceClient\bin\Debug\SpaceClient.pdb
+D:\AGH\Semestr VI\Technologie Integracji Oprogramowania\Laboratoria\Projects\Space\SpaceClient\obj\Debug\SpaceClient.csprojResolveAssemblyReference.cache
+D:\AGH\Semestr VI\Technologie Integracji Oprogramowania\Laboratoria\Projects\Space\SpaceClient\obj\Debug\SpaceClient.exe
+D:\AGH\Semestr VI\Technologie Integracji Oprogramowania\Laboratoria\Projects\Space\SpaceClient\obj\Debug\SpaceClient.pdb
