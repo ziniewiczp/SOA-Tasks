@@ -39,7 +39,7 @@ namespace ConsoleApplication
             Console.WriteLine("Lista wszystkich koszulek na karty:");
             foreach (var cardShirt in container.GetAvailableCardShirts().ToList())
             {
-                Console.WriteLine("{0} : {1}", cardShirt.ID, cardShirt.Name);
+                Console.WriteLine("{0} : {1}", cardShirt.Id, cardShirt.Name);
             }
             Console.WriteLine();
 

@@ -33,7 +33,7 @@ namespace WebApplication.Controllers
             }
             db.Stores.Add(store);
             await db.SaveChangesAsync();
-            return Created(store.ID);
+            return Created(store);
         }
 
         public async Task<IHttpActionResult> Put([FromODataUri] int key, Store update)

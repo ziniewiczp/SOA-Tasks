@@ -22,7 +22,7 @@ namespace Library
             games.ForEach(i => context.Games.Add(i));
             context.SaveChanges();
 
-            var stores = new List<Store>()
+            var stores = new List<Store>
             {
                 new Store() {Name = "Store1", Address = "Address1"},
                 new Store() {Name = "Store2", Address = "Address2"},
@@ -33,7 +33,7 @@ namespace Library
             stores.ForEach(g => context.Stores.Add(g));
             context.SaveChanges();
 
-            var cardShirts = new List<CardShirt>()
+            var cardShirts = new List<CardShirt>
             {
                 new CardShirt() {Name = "Card Shirt1" },
                 new CardShirt() {Name = "Card Shirt2" },

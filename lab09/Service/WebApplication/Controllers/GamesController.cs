@@ -42,7 +42,7 @@ namespace WebApplication.Controllers
             }
             db.Games.Add(game);
             await db.SaveChangesAsync();
-            return Created(game.ID);
+            return Created(game);
         }
 
         public async Task<IHttpActionResult> Put([FromODataUri] int key, Game update)

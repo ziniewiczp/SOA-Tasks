@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-// Generation date: 2016-05-22 18:01:47
+// Generation date: 2016-05-24 12:03:07
 namespace xConsoleApplication.Library
 {
     /// <summary>
@@ -336,37 +336,37 @@ namespace xConsoleApplication.Library
         /// <summary>
         /// Create a new CardShirt object.
         /// </summary>
-        /// <param name="ID">Initial value of ID.</param>
+        /// <param name="ID">Initial value of Id.</param>
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.OData.Client.Design.T4", "2.4.0")]
         public static CardShirt CreateCardShirt(int ID)
         {
             CardShirt cardShirt = new CardShirt();
-            cardShirt.ID = ID;
+            cardShirt.Id = ID;
             return cardShirt;
         }
         /// <summary>
-        /// There are no comments for Property ID in the schema.
+        /// There are no comments for Property Id in the schema.
         /// </summary>
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.OData.Client.Design.T4", "2.4.0")]
-        [global::Microsoft.OData.Client.OriginalNameAttribute("ID")]
-        public int ID
+        [global::Microsoft.OData.Client.OriginalNameAttribute("Id")]
+        public int Id
         {
             get
             {
-                return this._ID;
+                return this._Id;
             }
             set
             {
-                this.OnIDChanging(value);
-                this._ID = value;
-                this.OnIDChanged();
-                this.OnPropertyChanged("ID");
+                this.OnIdChanging(value);
+                this._Id = value;
+                this.OnIdChanged();
+                this.OnPropertyChanged("Id");
             }
         }
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.OData.Client.Design.T4", "2.4.0")]
-        private int _ID;
-        partial void OnIDChanging(int value);
-        partial void OnIDChanged();
+        private int _Id;
+        partial void OnIdChanging(int value);
+        partial void OnIdChanged();
         /// <summary>
         /// There are no comments for Property Name in the schema.
         /// </summary>
@@ -610,7 +610,7 @@ namespace xConsoleApplication.Default
         <Property Name=""Address"" Type=""Edm.String"" />
       </EntityType>
       <ComplexType Name=""CardShirt"">
-        <Property Name=""ID"" Type=""Edm.Int32"" Nullable=""false"" />
+        <Property Name=""Id"" Type=""Edm.Int32"" Nullable=""false"" />
         <Property Name=""Name"" Type=""Edm.String"" />
       </ComplexType>
     </Schema>
